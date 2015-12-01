@@ -62,7 +62,7 @@ void print_array(int A[], int p, int r)
 		cout << A[p] << " ";
 	cout << endl;
 }
-int main2_122()
+int main2_1()
 {
 	LARGE_INTEGER start, afterSort;
 	const int array_size = 1000000;
